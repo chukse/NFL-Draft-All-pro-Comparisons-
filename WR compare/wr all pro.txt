@@ -1,0 +1,11 @@
+Player	Height	Weight 	Arm length(inch)	Handspan(inch)	40 yd 	vert jump	broad jump	three cone (s) 	20 yd shuffle 	College	Age 	Bench press
+Justin Jefferson	73	202	33	9.125	4.43	37.5	126			LSU	21	
+Tyreek hill 	68	185	30.5	8	4.29	40.5	129	6.53	4.06	West Alabama		
+Davante Adams	72.88	212	32.63	9	4.56	39.5	123	6.82	4.3	fresno st	21	14
+aj brown	72	226	32.875	9.75	4.49	36.5	120	6.89	4.26	ole miss	22	19
+stefon diggs	72	195	31.25	10	4.46	35	115	7.02	4.32	maryland	21	11
+ceedee lamb	73.63	198	32.25	9.25	4.5	34.5	124			oklahoma	21	11
+cooper kupp	74	204	31.5	9.5	4.62	31	116	6.75	4.08	eastern washington	23	16
+deebo samuel	71	214	31.375	10	4.48	39	122	7.03	4.14	south carolina 	23	15
+Jamar Chase	73	200	30.75	9.625	4.34	41	132	6.96	3.99	LSU	21	23
+Average 	6000	204	31.79222222	9.361111111	4.463333333	37.16666667	123	6.857142857	4.164285714		21.625	15.57142857

@@ -1,0 +1,51 @@
+Name	Position	School	Height	Weight	Hand	Arm	Wing	10	40	Bench	3-Cone	Shuttle	Vertical	Broad
+Dontay Demus Jr.	WR	Maryland	6025	212	0968	3428		1.55	4.57				35.5	1003
+Jalen Brooks	WR	South Carolina	6010	201	0948	3418		1.56	4.69				35	1010
+Justin Shorter	WR	Florida	6036	229	1000	3368		1.59	4.55				35.5	1006
+Jason Brownlee Jr.	WR	Southern Miss	6020	198	0968	3368		1.52	4.59				39.5	1011
+Quentin Johnston	WR	TCU	6026	208	0958	3358	8158	--	--				40.5	1102
+Bryce Ford-Wheaton	WR	West Virginia	6034	221	0938	3348		1.54	4.38				41	1009
+AT Perry	WR	Wake Forest	6035	198	0928	3328		1.59	4.47				35	1101
+Joseph Ngata	WR	Clemson	6032	217	1028	3318		1.59	4.54				34.5	1004
+Rashee Rice	WR	SMU	6004	204	0948	3268		1.49	4.51				41	1008
+Cedric Tillman	WR	Tennessee	6030	213	1000	3268		1.53	4.54				37	1008
+Matt Landers	WR	Arkansas	6043	200	0928	3248		1.51	4.37				37	1010
+Michael Jefferson	WR	Louisiana	6036	199	0958	3248		1.52	4.56				37	1101
+Malik Heath	WR	Mississippi	6023	213	0918	3248		1.53	4.64				34	1004
+Jalin Hyatt	WR	Tennessee	6001	176	0900	3248		1.50	4.40				40	1103
+Mitchell Tinsley	WR	Penn State	5116	199	1000	3238		1.53	4.60				35.5	1000
+Dontayvion Wicks	WR	Virginia	6010	206	1000	3238		1.59	4.62				39	1010
+Malik Knowles	WR	Kansas State	6022	196	0868	3228		--	--				--	--
+Jake Bobo	WR	UCLA	6040	206	1000	3228		--	--				--	--
+Jonathan Mingo	WR	Mississippi	6016	220	1038	3218		1.54	4.46				39.5	1009
+Antoine Green	WR	North Carolina	6016	199	0900	3218		1.54	4.47				33.5	1003
+Jalen Wayne	WR	South Alabama	6014	210	0938	3218		1.54	4.51				34.5	1004
+CJ Johnson	WR	East Carolina	6015	224	1028	3200		--	--				--	--
+Andrei Iosivas	WR	Princeton	6031	205	0868	3200		1.52	4.43				39	1008
+Grant DuBose	WR	Charlotte	6023	201	0948	3178		1.52	4.57				35	1005
+Trey Palmer	WR	Nebraska	6000	192	0958	3178		1.51	4.33				--	--
+Jaray Jenkins	WR	LSU	6016	204	1000	3168		1.56	4.60				29.5	--
+Elijah Higgins	WR	Stanford	6030	235	1048	3168		1.56	4.54				35	1006
+Jacob Copeland	WR	Maryland	5111	201	0858	3158		1.51	4.42				33	1007
+Marvin Mims Jr.	WR	Oklahoma	5112	183	0900	3158		1.55	4.38				39.5	1009
+Charlie Jones	WR	Purdue	5112	175	0900	3158		1.51	4.43				36.5	1004
+Puka Nacua	WR	BYU	6015	201	0948	3148		--	--				--	--
+Xavier Hutchinson	WR	Iowa State	6017	203	0938	3138		1.55	4.53				36	0908
+Kayshon Boutte	WR	LSU	5111	195	0948	3138		1.58	4.50				29	0910
+Rakim Jarrett	WR	Maryland	5116	192	0938	3138		1.51	4.44				35.5	1003
+Jadon Haselwood	WR	Arkansas	6021	215	1000	3128		1.56	4.66				37	1003
+Kearis Jackson	WR	Georgia	5113	196	0938	3128		1.52	4.55				--	1006
+Ronnie Bell	WR	Michigan	5115	191	0948	3100		1.52	4.54				38.5	1000
+Michael Wilson	WR	Stanford	6015	213	0968	3100		1.50	4.58				37.5	1005
+Tyler Scott	WR	Cincinnati	5095	177	0900	3078		1.51	4.44				39.5	1101
+Jordan Addison	WR	USC	5111	173	0868	3078		1.56	4.49				34	1002
+Nathaniel Dell	WR	Houston	5083	165	0858	3048		1.49	4.49				--	1001
+Jayden Reed	WR	Michigan State	5106	187	0918	3048		1.57	4.45				33.5	1001
+Jaxon Smith-Njigba	WR	Ohio State	6005	196	0900	3048	7548	--	--				35	1005
+Josh Downs	WR	North Carolina	5091	171	0928	3038		1.49	4.48				38.5	1011
+Demario Douglas	WR	Liberty	5077	179	0868	3028		1.54	4.44				39.5	1102
+Jalen Cropper	WR	Fresno State	5111	172	0878	3018		1.55	4.40				--	1001
+Zay Flowers	WR	Boston College	5092	182	0928	2928		1.53	4.42				35.5	1007
+Derius Davis	WR	TCU	5083	165	0800	2928		1.46	4.36				--	--
+Parker Washington	WR	Penn State	5095	204	1018	2900		--	--				--	--
+Tre Tucker	WR	Cincinnati	5087	182	0858	2878		1.48	4.40				37.5	1004
