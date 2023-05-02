@@ -1,0 +1,61 @@
+Column1	Column2	Column3	Column4	Column5	Column6	Column7	Column8	Column9	Column10	Column11	Column12	Column13	Column14	Column15
+Name	Position	School	Height	Weight	Hand	Arm	Wing	10	40	Bench	3-Cone	Shuttle	Vertical	Broad
+Julius Brents	CB	Kansas State	6026	198	0958	3400	8258	1.57	4.53				41.5	1106
+Joey Porter Jr.	CB	Penn State	6024	193	1000	3400	8078	1.50	4.46				35	1009
+Darius Rush	CB	South Carolina	6020	198	0948	3338		1.51	4.36				35	1001
+Terell Smith	CB	Minnesota	6004	204	0900	3278		1.50	4.41				34	1000
+Anthony Johnson Jr.	CB	Virginia	6020	205	0858	3258		1.59	4.63				30.5	0908
+Rejzohn Wright	CB	Oregon State	6020	193	0958	3248		--	--				--	--
+Eli Ricks	CB	Alabama	6020	188	0878	3238		--	--				--	--
+Nic Jones	CB	Ball State	6000	189	1000	3238		1.57	4.51				34.5	1002
+Lance Boykin	CB	Coastal Carolina	6020	200	0968	3238		--	--				--	1004
+Tyrique Stevenson	CB	Miami	6000	198	0958	3238		1.51	4.45				38.5	1005
+Cory Trice	CB	Purdue	6030	206	0968	3238		1.56	4.47				35.5	1100
+Darrell Luter Jr.	CB	South Alabama	6000	189	1038	3238		1.57	4.46				40.5	--
+Carrington Valentine	CB	Kentucky	6000	193	0928	3228		--	--				39	1008
+Mekhi Garner	CB	LSU	6020	212	1018	3228		1.54	4.55				38	1008
+Emmanuel Forbes	CB	Mississippi State	6006	166	0848	3228	7900	1.48	4.35				37.5	1004
+Christian Gonzalez	CB	Oregon	6013	197	0948	3200	7678	1.54	4.38				41.5	1101
+Kyu Blu Kelly	CB	Stanford	6000	191	0968	3200		1.49	4.52				36	1011
+Jakorian Bennett	CB	Maryland	5110	188	0918	3178		1.48	4.30				40.5	1101
+Alex Austin	CB	Oregon State	6010	195	0848	3178		1.54	4.55				33	1002
+Cam Smith	CB	South Carolina	6006	180	0918	3158	7618	1.49	4.43				38	1102
+Deonte Banks	CB	Maryland	6000	197	0938	3138		1.49	4.35				42	1104
+Cameron Mitchell	CB	Northwestern	5110	191	0968	3138		1.48	4.47				35	--
+Kelee Ringo	CB	Georgia	6016	207	0848	3128	7418	1.54	4.36				33.5	1002
+Devon Witherspoon	CB	Illinois	5114	181	0878	3128	7358	--	--				--	--
+Anthony Johnson	CB	Iowa State	6000	205	0868	3128		1.55					37.5	1005
+Devon Witherspoon	CB	Illinois	5114	181	0878	3128	7358	--	--				--	--
+Anthony Johnson	CB	Iowa State	6000	205	0868	3128								
+Ji'Ayir Brown	S	Penn State	5110	203	1018	3128								
+Jartavius Martin	CB	Illinois	5110	194	0958	3118		1.47					44	1101
+Jartavius Martin	CB	Illinois	5110	194	0958	3118							44	
+Christopher Smith	S	Georgia	5110	192	0958	3118								
+Cameron Brown	CB	Ohio State	6000	199	0900	3100		--	--				--	--
+Garrett Williams	CB	Syracuse	5100	192	0928	3100		--	--				--	--
+Mekhi Blackmon	CB	USC	5110	178	0928	3100		1.54	4.47				36	1005
+Cameron Brown	CB	Ohio State	6000	199	0900	3100		--	--				--	--
+Garrett Williams	CB	Syracuse	5100	192	0928	3100		--	--				--	--
+Mekhi Blackmon	CB	USC	5110	178	0928	3100		1.54					36	1005
+DeMarcco Hellams	S	Alabama	6010	203	0900	3100								
+Brandon Joseph	S	Notre Dame	6000	202	0900	3078								
+Myles Brooks	CB	Louisiana Tech	6010	201	0948	3068		--	--				--	--
+DJ Turner	CB	Michigan	5110	178	0958	3068		1.47	4.26				38.5	1011
+Jaylon Jones	CB	Texas A&M	6020	200	0900	3068		1.48	4.57				38	1002
+Myles Brooks	CB	Louisiana Tech	6010	201	0948	3068		--	--				--	--
+DJ Turner	CB	Michigan	5110	178	0958	3068		1.47					38.5	1011
+Jaylon Jones	CB	Texas A&M	6020	200	0900	3068		1.48					38	1002
+Brian Branch	S	Alabama	5115	190	0948	3068	7528	1.56					34.5	1005
+Brandon Hill	S	Pitt	5100	193	0948	3068								
+Daniel Scott	S	Cal	6010	208	1000	3028								
+Riley Moss	CB	Iowa	6010	193	0948	3000		1.48	4.45				39	1007
+Riley Moss	CB	Iowa	6010	193	0948	3000		1.48					39	1007
+Arquon Bush	CB	Cincinnati	6000	187	0928	2978		1.55	4.54				33.5	0907
+Arquon Bush	CB	Cincinnati	6000	187	0928	2978		1.55					33.5	0907
+Kei'Trel Clark	CB	Louisville	5100	181	0828	2958		1.49	4.42				34.5	1002
+Kei'Trel Clark	CB	Louisville	5100	181	0828	2958		1.49					34.5	1002
+Jammie Robinson	S	Florida State	5110	191	0868	2958								
+Clark Phillips III	CB	Utah	5090	184	0918	2918		1.51	4.51				33	--
+Clark Phillips III	CB	Utah	5090	184	0918	2918		1.51					33	--
+Tre'Vius Hodges-Tomlinson	CB	TCU	5080	178	0858	2900		1.50	4.41				39	1100
+Tre'Vius Hodges-Tomlinson	CB	TCU	5080	178	0858	2900		1.50						
