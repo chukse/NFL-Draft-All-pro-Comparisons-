@@ -1,0 +1,20 @@
+Darnell Washington	TE	Georgia	6065	264	1100	3438	8368						31	1002
+Zack Kuntz	TE	Old Dominion	6065	255	1028	3400							40	1008
+Payne Durham	TE	Purdue	6055	253	0968	3338							34.5	0909
+Brayden Willis	TE	Oklahoma	6036	241	0968	3328							32	0909
+Noah Gindorff	TE	North Dakota State	6055	263	1000	3318							--	--
+Luke Schoonmaker	TE	Michigan	6050	251	0900	3278							33.5	1007
+Travis Vokolek	TE	Nebraska	6060	259	0948	3278							--	0907
+Leonard Taylor	TE	Cincinnati	6046	250	1018	3268							--	--
+Tucker Kraft	TE	South Dakota State	6050	254	1000	3268							34	1002
+Luke Musgrave	TE	Oregon State	6057	253	1038	3258	7948						36	1005
+Dalton Kincaid	TE	Utah	6035	246	1028	3258	7838						--	--
+Kyle Patterson	TE	Air Force	6051	260	0928	3248							--	--
+Cameron Latu	TE	Alabama	6042	242	0948	3238							--	--
+Davis Allen	TE	Clemson	6054	245	1000	3228							38.5	1005
+Will Mallory	TE	Miami	6045	239	0938	3228							36.5	1001
+Sam LaPorta	TE	Iowa	6033	245	1028	3218							35	1003
+Blake Whiteheart	TE	Wake Forest	6037	247	0868	3218							35.5	0907
+Michael Mayer	TE	Notre Dame	6044	249	0948	3158	7628						32.5	0910
+Josh Whyle	TE	Cincinnati	6065	248	0948	3148							33.5	0907
+Brenton Strange	TE	Penn State	6036	253	0958	3118							36	1004

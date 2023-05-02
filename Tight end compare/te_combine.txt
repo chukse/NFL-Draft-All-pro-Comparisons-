@@ -1,0 +1,21 @@
+Name	Position	college	height	weight	hand	arm	wing	ten	forty	bench	3 cone	shuttle	vert	broad
+Darnell Washington	TE	Georgia	6065	264	1100	3438	8368	1.57	4.64	21		4.08	31	1002
+Zack Kuntz	TE	Old Dominion	6065	255	1028	3400	8318	1.57	4.55	23	6.87	4.12	40	1008
+Payne Durham	TE	Purdue	6055	253	968	3338	8068	1.61	4.87			4.36	34.5	909
+Brayden Willis	TE	Oklahoma	6036	241	968	3328	7925		4.75		7.3	4.36	32	909
+Noah Gindorff	TE	North Dakota State	6055	263	1000	3318	8025		4.71	16			--	--
+Luke Schoonmaker	TE	Michigan	6050	251	900	3278	7818	1.59	4.63			4.27	33.5	1007
+Travis Vokolek	TE	Nebraska	6060	259	948	3278	7918		4.86				--	907
+Leonard Taylor	TE	Cincinnati	6046	250	1018	3268	8048		4.69				--	--
+Tucker Kraft	TE	South Dakota State	6050	254	1000	3268		1.59	4.69	23	7.08	4.29	34	1002
+Luke Musgrave	TE	Oregon State	6057	253	1038	3258	7948		4.61				36	1005
+Dalton Kincaid	TE	Utah	6035	246	1028	3258	7838		4.71				--	--
+Kyle Patterson	TE	Air Force	6051	260	928	3248	7828		4.74				--	--
+Cameron Latu	TE	Alabama	6042	242	948	3238	7928		4.7				--	--
+Davis Allen	TE	Clemson	6054	245	1000	3228	7868	1.6	4.84				38.5	1005
+Will Mallory	TE	Miami	6045	239	938	3228	7838	1.59	4.54	20			36.5	1001
+Sam LaPorta	TE	Iowa	6033	245	1028	3218	7748	1.59	4.59		6.91	4.25	35	1003
+Blake Whiteheart	TE	Wake Forest	6037	247	868	3218	7938	1.63	4.7	20			35.5	907
+Michael Mayer	TE	Notre Dame	6044	249	948	3158	7628	1.66	4.7				32.5	910
+Josh Whyle	TE	Cincinnati	6065	248	948	3148	7838	1.61	4.69				33.5	907
+Brenton Strange	TE	Penn State	6036	253	958	3118		1.57	4.7	23	7.25	4.46	36	1004

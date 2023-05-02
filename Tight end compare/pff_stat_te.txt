@@ -1,0 +1,15 @@
+player	player_id	position	team_name	player_game_count	avg_depth_of_target	avoided_tackles	caught_percent	contested_catch_rate	contested_receptions	contested_targets	declined_penalties	drop_rate	drops	first_downs	franchise_id	fumbles	grades_hands_drop	grades_hands_fumble	grades_offense	grades_pass_block	grades_pass_route	inline_rate	inline_snaps	interceptions	longest	pass_block_rate	pass_blocks	pass_plays	penalties	receptions	route_rate	routes	slot_rate	slot_snaps	targeted_qb_rating	targets	touchdowns	wide_rate	wide_snaps	yards	yards_after_catch	yards_after_catch_per_reception	yards_per_reception	yprr 
+Dalton Kincaid	91791	TE	UTAH	12	8.7	16	75.3	50	9	18	0	2.8	2	49	328	0	88.3	75.4	90.2	60	91.8	35.4	142	4	37	4.2	17	401	4	70	91.8	368	55.1	221	115.4	93	8	9.5	38	890	397	5.7	12.7	2.42
+Davis Allen	99697	TE	CLEMSON	14	9.1	2	76.5	91.7	11	12	0	2.5	1	19	140	1	84.2	39.3	71.9	52.4	71.1	42.3	145	1	41	13.7	47	343	2	39	82.2	282	45.5	156	126.5	51	5	12	41	443	194	5	11.4	1.57
+Brenton Strange	101694	TE	PENN STATE	13	5.2	7	84.2	62.5	5	8	0	3	1	18	266	0	81.8	72.5	70	76.7	73.2	38.9	116	1	67	11.4	34	298	3	32	83.9	250	43.6	130	135	38	5	9.1	27	362	232	7.3	11.3	1.45
+Noah Gindorff	66639	TE	N DAK ST	3	5.3	3	75		0	0	0	0	0	5	250	0	77.5	66.2	88.7	68.3	89.7	75	27	0	24	5.6	2	36	1	6	91.7	33	16.7	6	142.7	8	1	5.6	2	74	49	8.2	12.3	2.24
+Michael Mayer	122906	TE	NOTRE DAME	12	8.1	8	74.7	56.5	13	23	0	4.1	3	45	258	0	83.2	75.3	80.6	71.1	82	37.2	172	3	52	4.8	22	462	4	71	91.3	422	49.1	227	112.6	95	7	13.6	63	840	348	4.9	11.8	1.99
+Payne Durham	84037	TE	PURDUE	12	6.4	10	76.3	40	4	10	0	4.3	2	25	273	1	80.2	43.9	72.9	68.1	71.9	54.7	196	2	62	16.2	58	358	3	45	78.5	281	42.7	153	118.4	59	6	0.8	3	467	290	6.4	10.4	1.66
+Dalton Kincaid	91791	TE	UTAH	14	11.2	1	80	77.8	7	9	0	0	0	24	328	0	90.4	72.8	79.2	74.5	83.2	46.2	141	0	43	14.1	43	305	2	36	80	244	45.2	138	153.5	45	8	8.5	26	510	154	4.3	14.2	2.09
+Darnell Washington	124044	TE	GEORGIA	10	10.2	3	83.3	50	2	4	0	9.1	1	10	173	0	62.9	67.9	72.6	66.1	67.1	69.2	92	0	32	14.3	19	133	1	10	82	109	24.1	32	146.5	12	1	6.8	9	154	75	7.5	15.4	1.41
+Tucker Kraft	104034	TE	S DAK ST	15	7.5	16	77.4	75	9	12	0	9.7	7	41	292	1	63.1	52.8	85	42.3	89.1	57.9	209	0	38	7.5	27	361	6	65	89.8	324	31.3	113	128.6	84	6	10.5	38	770	406	6.2	11.8	2.38
+Josh Whyle	54037	TE	CINCINNATI	10	8.2	3	82.4	100	3	3	0	0	0	20	138	0	89.2	71.7	90.9	72.7	92.9	42	58	1	30	8	11	138	1	28	87	120	47.1	65	137.3	34	6	8.7	12	353	226	8.1	12.6	2.94
+Brayden Willis	77917	TE	OKLAHOMA	5	10.8	1	100	100	1	1	0	0	0	8	261	0	80.1	67.5	71.9	72.6	72	53.6	52	0	21	22.7	22	97	1	9	71.1	69	37.1	36	154.6	9	1	6.2	6	110	13	1.4	12.2	1.59
+Sam LaPorta	101690	TE	IOWA	10	9.4	4	71.4	50	2	4	0	0	0	9	192	0	83.8	69.2	71.4	72.6	77.1	57.6	57	0	41	6.1	6	99	0	15	90.9	90	33.3	33	98.9	21	0	5.1	5	188	86	5.7	12.5	2.09
+Brenton Strange	101694	TE	PENN STATE	2	-1	0	100		0	0	0	0	0	1	266	0	66.7	63.6	71		72.6	60	3	0	4	0	0	5	0	1	100	5	40	2	122.9	1	1	0	0	4	5	5	4	0.8
+Dalton Kincaid	91791	TE	SAN DIEGO	4	16.3	1	76.2	60	3	5	0	0	0	13	283	0	85.1	69.9	80.4		82.6	32.2	39	1	57	0	0	121	1	16	92.6	112	39.7	48	129.6	21	2	28.1	34	336	91	5.7	21	3
