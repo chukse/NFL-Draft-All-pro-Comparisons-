@@ -1,0 +1,63 @@
+Siaki Ika	IDL	Baylor	6032	335	1028	3238		1.88	5.39	--	7.80	4.99	--	--
+Jerrod Clark	IDL	Coastal Carolina	6032	334	0968	3368		1.82	5.25	--	7.60	4.83	27.5	0806
+Keondre Coburn	IDL	Texas	6011	332	0918	3148		1.82	5.22	24	--	--	27.5	0805
+Mazi Smith	IDL	Michigan	6026	323	0968	3368		--	--	34	--	--	--	--
+PJ Mustipher	IDL	Penn State	6036	320	0900	3268		1.88	5.41	19	8.01	5.03	27.5	0800
+Jalen Carter	IDL	Georgia	6031	314	1028	3348		--	--	--	--	--	--	--
+Gervon Dexter	IDL	Florida	6056	310	0948	3228		1.81	4.88	22	7.50	--	31	0902
+Keeanu Benton	IDL	Wisconsin	6035	309	0968	3378		1.79	5.08	25	7.34	4.65	29.5	0903
+Jaquelin Roy	IDL	LSU	6026	305	1018	3268		--	--	30	8.01	5.00	--	--
+Cameron Young	IDL	Mississippi State	6033	304	1000	3448		1.80	5.10	--	--	--	--	--
+Nesta Jade Silvera	IDL	Arizona State	6014	304	0978	3278		1.77	5.16	--	--	--	29.5	0902
+DJ Dale	IDL	Alabama	6010	302	0968	3278		1.81	5.26	--	7.69	4.80	25.5	0802
+Bryan Bresee	IDL	Clemson	6055	298	1028	3248		1.71	4.86	22	--	--	29	--
+Byron Young	IDL	Alabama	6033	294	1100	3438		--	--	24	7.68	--	26	0900
+Moro Ojomo	IDL	Texas	6024	292	1038	3448		1.77	5.04	29	--	--	33	0904
+Zacch Pickens	IDL	South Carolina	6035	291	1038	3438		1.74	4.89	22	7.45	4.62	30.5	0908
+Jalen Redmond	IDL	Oklahoma	6023	291	1018	3258		1.71	4.81	27	7.30	4.51	34.5	0908
+Dante Stills	IDL	West Virginia	6034	286	0958	3238		1.72	4.85	20	7.38	4.61	28.5	0905
+Keion White	EDGE	Georgia Tech	6050	285	1018	3400		--	--	30	--	--	34	0909
+Adetomiwa Adebawore	EDGE	Northwestern	6015	282	1048	3378		1.61	4.49	27	--	--	37.5	1005
+Calijah Kancey	IDL	Pitt	6005	281	0918	3058		1.64	4.67	--	--	--	--	--
+Tyler Lacy	IDL	Oklahoma State	6043	279	1078	3328		1.72	5.11	30	7.60	--	28.5	0908
+Viliami Fehoko	IDL	San Jose State	6035	276	0900	3300		--	--	24	--	--	--	--
+Mike Morris	EDGE	Michigan	6052	275	1000	3348		1.72	4.95	22	--	--	28.5	0902
+Zach Harrison	EDGE	Ohio State	6054	274	1000	3628	8548	--	--	25	--	--	--	--
+Colby Wooden	EDGE	Auburn	6042	273	1038	3368		1.68	4.79	23	--	4.52	--	0907
+Lukas Van Ness	EDGE	Iowa	6046	272	1100	3400		1.64	4.58	17	7.02	4.32	31	0910
+Tyree Wilson	EDGE	Texas Tech	6061	271	0958	3558		--	--	23	--	--	--	--
+MJ Anderson	EDGE	Iowa State	6025	269	0928	3368		--	--	--	--	--	33	--
+Isaiah McGuire	EDGE	Missouri	6043	268	0858	3378		1.72	4.76	--	7.39	--	36.5	1002
+Myles Murphy	EDGE	Clemson	6045	268	0848	3368		--	--	25	--	--	--	--
+Tuli Tuipulotu	IDL	USC	6032	266	1018	3228		--	--	--	--	--	--	--
+Isaiah Foskey	EDGE	Notre Dame	6047	264	0978	3400		1.66	4.58	22	7.28	4.41	34	1005
+Ikenna Enechukwu	EDGE	Rice	6040	264	0958	3358		1.66	4.70	--	--	--	31.5	1000
+Ali Gaye	EDGE	LSU	6055	263	0948	3428		--	--	--	--	--	--	--
+YaYa Diaby	EDGE	Louisville	6032	263	1038	3378		1.56	4.51	--	--	--	37	1000
+Tyrus Wheat	EDGE	Mississippi State	6022	263	0900	3278		1.59	4.65	--	--	4.54	28.5	0905
+Thomas Incoom	EDGE	Central Michigan	6022	262	0868	3328		1.65	4.66	23	--	--	30.5	0910
+DJ Johnson	EDGE	Oregon	6041	260	0900	3328		1.59	4.49	--	--	--	32	0902
+Tavius Robinson	EDGE	Mississippi	6060	257	0958	3368		1.63	4.66	23	--	4.62	33.5	1000
+Dylan Horton	EDGE	TCU	6036	257	0948	3318		--	--	18	--	--	34	1000
+Andre Carter II	EDGE	Army	6065	256	0938	3338		--	--	--	--	4.36	30	0901
+Felix Anudike-Uzomah	EDGE	Kansas State	6031	255	0958	3348	8018	--	--	--	--	--	--	--
+Derick Hall	EDGE	Auburn	6026	254	1000	3448		1.59	4.55	--	--	--	33.5	1007
+Caleb Murphy	EDGE	Ferris State	6030	254	1028	3268		1.65	4.81	--	7.28	4.45	28.5	0911
+Will Anderson Jr.	EDGE	Alabama	6036	253	0978	3378		1.61	4.60	--	--	--	--	--
+Eku Leota	EDGE	Auburn	6030	252	0948	3348		--	--	--	--	--	--	--
+Habakkuk Baldonado	EDGE	Pitt	6036	251	1048	3300		1.67	4.78	21	7.11	4.44	35	1000
+KJ Henry	EDGE	Clemson	6041	251	1000	3300		1.65	4.63	--	--	--	31.5	0904
+Ochaun Mathis	EDGE	Nebraska	6046	250	1068	3528		1.64	4.74	--	--	4.38	33.5	0910
+Brenton Cox Jr.	EDGE	Florida	6036	250	0928	3318		1.65	4.82	24	--	--	33	0907
+Byron Young	EDGE	Tennessee	6022	250	0928	3248		1.62	4.43	22	7.19	--	38	1100
+BJ Ojulari	EDGE	LSU	6021	248	1048	3428		--	--	--	--	--	32.5	1006
+Andre Jones Jr.	EDGE	Louisiana	6045	248	1000	3428		--	--	--	--	--	29	0908
+Robert Beal Jr.	EDGE	Georgia	6036	247	1018	3458		1.62	4.48	--	--	--	30	1003
+Lonnie Phelps Jr.	EDGE	Kansas	6021	244	0928	3238		--	--	--	--	--	--	--
+Jose Ramirez	EDGE	Eastern Michigan	6017	242	0868	3268		1.63	4.73	21	6.95	4.30	34.5	0910
+Will McDonald IV	EDGE	Iowa State	6035	239	0948	3478	8228	--	--	--	--	--	36	1100
+Noah Taylor	EDGE	North Carolina	6036	238	0858	3258		--	--	--	--	--	--	--
+Nolan Smith	EDGE	Georgia	6021	238	0900	3258		1.52	4.39	--	--	--	41.5	1008
+Yasir Abdullah	EDGE	Louisville	6010	237	0928	3238		1.56	4.47	--	--	--	36.5	1009
+Nick Hampton	EDGE	Appalachian State	6022	236	0948	3358		1.65	4.58	--	--	--	35.5	1000
+Isaiah Land	EDGE	Florida A&M	6035	236	0928	3248		1.65	4.62	21	7.20	4.56	34.5	1006

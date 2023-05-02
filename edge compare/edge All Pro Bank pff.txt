@@ -1,0 +1,10 @@
+Player	Height	Weight 	Arm length(inch)	Handspan(inch)	40 yd 	vert jump	broad jump	three cone (s) 	20 yd shuffle 	Age 	Bench press	10 yd 	pass rush grade 	Win %	College	tot	prp
+Nick Bosa	6040	266	33	10.75	4.79	33.5	116	7.1	4.14	21	29		92.7	39.05	LSU	21	15.75
+Micah Parsons	6030	245	31.5	11	4.42	34	126	6.96	4.4		19	1.59	91.25	36.05	Alabama	12	21.9
+Myles Garret	6040	272	35.25	10.25	4.64	41	128			21	33		89.5	30.53	clemson	28.33	16.37
+Hassan Reddick	6010	237	32.75	10.125	4.52	35.5	133	7.01	4.37	22	24	1.59	79.76	22.33	maryland 	14.33	12.8
+TJ Watt 	6040	252	33.125	11	4.69	37	128	6.79	4.13	21	21	1.58	90.6	26.3	cincinnati	38	17.2
+Maxx Crosby	6050	255	32.875	9.75	4.66	36	122	6.89	4.13	21	18	1.62	77.97	24.33	oklahoma	18.33	12.37
+Robert Quinn	6040	265	34	10.125	4.62	34	116	7.13	4.4	23	22	1.53			samford		
+Khalil Mack	6030	251	33.25	10.25	4.65	40	128	7.08	4.18	23	23	1.56			alabama		
+Average 	6035	255.375	33.21875	10.40625	4.62375	36.375	124.625	6.976666667	4.268333333	21.71428571	23.5	1.578333333	86.96333333	29.765		21.99833333	16.065
